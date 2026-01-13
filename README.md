@@ -1,2 +1,2 @@
-# gentleman-shoes
+# seyali
 shoes
